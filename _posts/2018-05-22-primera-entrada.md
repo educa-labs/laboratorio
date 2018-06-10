@@ -4,5 +4,6 @@ title: Primera entrada
 ---
 
 # Introducción:
-Hola que tal esta es la bienvenida al blog de educalabs y wea
+
+Esta será la primera entrada del blog de Educalabs.
 
